@@ -1609,7 +1609,7 @@ end)
 
 local Window = WindUI:CreateWindow({
     Name = "EXODUS HUB | Murder Mystery 2 🔪",
-    Author = "by @exodusstk",
+    Author = "by MIRO_SIKO",
     Folder = "ExodusConfigs",
     Theme = "Dark",
     Size = UDim2.fromOffset(580, 460),
