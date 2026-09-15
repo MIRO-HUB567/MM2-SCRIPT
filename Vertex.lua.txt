@@ -1,9 +1,9 @@
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 -------------------------------------------------------------------------------------------------------------------
 local Window = WindUI:CreateWindow({
-    Title = "Vertex UI | MMV",
+    Title = "Vertex UI | MM2",
     Icon = "door-open",
-    Author = "by Uekiya",
+    Author = "by MIRO",
     Folder = "MM2HubScript_U",
 })
 
