@@ -2436,7 +2436,7 @@ Tabs.Misc:Button({
     ["Title"] = "Godly OP spawner",
     ["Locked"] = false,
     ["Callback"] = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/UniversalScripter1/ProjectNexora/refs/heads/main/V3.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/raw-roblox/MM2Spawner/refs/heads/main/MM2_Spawner_Mochii_Scripts.lua"))()
     end
 })
 
