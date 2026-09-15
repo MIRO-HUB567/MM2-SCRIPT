@@ -176,7 +176,7 @@ end
 SendNexoraNotification("Eliana Hub", "Toggle Keybind: ( R )", 30, "rbxassetid://89804924525665")
 
 local MainWindow = WindUI:CreateWindow({
-    ["Title"] = "Eliana Hub",
+    ["Title"] = "ASTRAL HUB",
     ["Icon"] = "zap",
     ["Author"] = "OP KEYLESS",
     ["Folder"] = "Project Nexora",
